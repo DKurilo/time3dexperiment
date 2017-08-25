@@ -7,6 +7,8 @@ https://github.com/paulmg/ThreeJS-Webpack-ES6-Boilerplate
 It can crash Safari and and it's loading a lot of time!  
 This is information about this project on Russian:  
 https://www.facebook.com/dmitry.kurilo/posts/1685460908149078  
+You can find result here:  
+http://kurilo.su/workingprocess/webgl/time/  
 
 
 ## Project Structure
